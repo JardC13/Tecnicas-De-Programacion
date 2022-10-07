@@ -1,0 +1,30 @@
+303283       {Instalaciones de Edificaciones}   3.75  
+604346         {Corrosion}    5.00
+808313         {Microelectronica}   4.50 
+808212          {Circuitos Electricos 2}   5.00
+707204          {Quimica Inorganica 1}   4.00
+755239         {Sistemas Operativos}  3.50 
+303313         {Puentes}   3.00 
+755639          {Proceso de Construccion}  3.50
+755248         {Sistemas de Informacion 1}  4.25 
+405361         {Gestion de Recursos Humanos}  3.25 
+808213         {Dibujo Electrotecnico}  4.75 
+405213         {Ingenieria de Plantas}     3.75
+808203        {Circuitos Analogicos}     3.75 
+902266       {Mecanica de Rocas}        4.75  
+405221        {Automatizacion Industrial}  3.50  
+902269         {Concentracion de Minerales}  4.50  
+101218         {Ecuaciones Diferenciales Aplicadas}  3.75 
+755265      {Aplicaciones de Ciencias de la Computacion}    4.50  
+201335       {Acustica}  3.50   
+303364        {Albanileria Estructural}   4.75  
+604348        {Ingenieria de Combustibles_Gaseosos}   4.50  
+604206         {Termodinamica 1}  3.75 
+303307        {Concreto Armado 2}    5.00 
+101251        {Geometria}   4.50 
+405350          {Plan de Negocios}   5.00
+303224       {Analisis Estructural 1}     4.50   
+755245         {Ingenieria de Software}               4.25 
+755281         {Lenguaje de Programacion 1}   4.25 
+755630         {Base de Datos 2}  3.50 
+604299        {Motores de Combustion Interna}  4.75
